@@ -1,0 +1,3 @@
+/home/sportsquid/Projects/C++/Sockets/build/CMakeFiles/rebuild_cache.dir
+/home/sportsquid/Projects/C++/Sockets/build/CMakeFiles/edit_cache.dir
+/home/sportsquid/Projects/C++/Sockets/build/CMakeFiles/Sockets.dir
