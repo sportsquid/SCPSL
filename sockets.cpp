@@ -6,7 +6,16 @@
 
 using namespace std; 
 
-int main(){
+void error(char *msg){
+    perror(msg);
+    exit(1);
+}
+
+int main(int argc, char **argv){
     cout << "Hello World";
+    int sockfd, newsockfd, portnumber;
+    socklen_t clilen;
+    char buffer[256]; 
+    
 
 };
